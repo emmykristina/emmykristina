@@ -6,13 +6,14 @@
 
 ## 👋 About Me
 
-AI Developer student focused on building intelligent systems that combine  
+AI Developer student from Stockholm, Sweden.
+Focused on building intelligent systems that combine  
 machine learning, backend development and real-world problem solving.
 
 I enjoy working with:
 
 - Machine Learning
-- Backend Development
+- Fullstack Development
 - Data Analysis
 - AI driven applications
 <br><br><br>
