@@ -1,4 +1,4 @@
-<img src="https://github.com/emmykristina/emmykristina/blob/main/assets/banner_github.png?raw=true" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+<img src="https://github.com/emmykristina/emmykristina/blob/main/assets/banner2_github.png?raw=true" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 <p align="center">
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Verdana+Code&size=26&duration=2500&pause=500&color=C29A78&center=true&vCenter=true&width=600&lines=AI+Developer;Machine+Learning+Enthusiast;Python+%7C+Backend+%7C+AI;Building+smart+solutions" />
