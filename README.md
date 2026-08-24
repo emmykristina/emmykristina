@@ -1,45 +1,47 @@
-<img src="https://github.com/emmykristina/emmykristina/blob/main/assets/banner2_github.png?raw=true" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+<div align="center">
+  <img src="https://github.com/emmykristina/emmykristina/blob/main/assets/banner_undertale.png?raw=true" alt="emmykristina" width="100%" />
+</div>
+
+<br />
+
+```
+* You are filled with DETERMINATION.
+
+* AI Developer student from Stockholm, Sweden.
+* Focused on building intelligent systems that combine
+  machine learning, backend development, and real-world
+  problem solving.
+
+* I enjoy working with:
+    - Machine Learning
+    - Fullstack Development
+    - Data Analysis
+    - AI-driven applications
+```
+
+<br />
+
+```
+* STATS
+  Name  : emmykristina
+  Class : AI Developer
+  LV    : Always Leveling Up
+  HP    : ████████████████████ 100%
+  EXP   : Machine Learning · Backend · Data
+```
+
+<br />
+
 <p align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Verdana+Code&size=26&duration=2500&pause=500&color=C29A78&center=true&vCenter=true&width=600&lines=AI+Developer;Machine+Learning+Enthusiast;Python+%7C+Backend+%7C+AI;Building+smart+solutions" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF2828" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF2828" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=9378D2" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=9378D2" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF2828" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=9378D2" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FF2828" />
 </p>
 
-## 👋 About Me
-
-AI Developer student from Stockholm, Sweden.
-Focused on building intelligent systems that combine  
-machine learning, backend development and real-world problem solving.
-
-I enjoy working with:
-
-- Machine Learning
-- Fullstack Development
-- Data Analysis
-- AI driven applications
-<br><br><br>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,react,html,css,flask,git,github,mysql" />
-
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=emmykristina&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmykristina&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-<!--
-**emmykristina/emmykristina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><sub>* (You feel your resolve strengthen. Thanks for stopping by.)</sub></p>
